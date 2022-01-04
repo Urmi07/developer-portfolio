@@ -48,6 +48,9 @@ h1{
     color:rgb(16, 92, 163);
 
 }
+#exp-header{
+    padding: 10px;
+}
 .experience-item{
      padding-left: 30px;
      padding-right: 30px;
@@ -69,4 +72,9 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
     
+}
+footer p{
+    text-align: center;
+    color: dimgray;
+   
 }
